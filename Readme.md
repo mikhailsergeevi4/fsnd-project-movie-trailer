@@ -9,9 +9,9 @@
 <p><span style="font-size:20px"><strong>How you can start:</strong></span></p>
 
 <p>Clone or download this project.<br />
-Main mission of this project is to generate index.html so you may:</p>
+Main mission of this project is to generate fresh_tomatoes.html so you may:</p>
 
-<p>Delete the existing index.html to prove that it is getting generated.</p>
+<p>Delete the existing fresh_tomatoes.html to prove that it is getting generated.</p>
 
 <p>Ensure that you have Python(ver 2.7) installed on your system.</p>
 
