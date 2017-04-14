@@ -1,7 +1,5 @@
 <p><span style="font-size:20px"><strong>Movie Trailer Website</strong></span></p>
 
-<p><a href= "">DEMO</a></p>
-
 <p><span style="font-size:18px"><strong>About:</strong></span></p>
 
 <p>This project created for the Udacity &#39;Full Stack Developer&#39; Nanodegree.</p>
